@@ -296,7 +296,7 @@ We modify the **MainLayout.razor** component and include the following code:
 
 ### 6.1. MAUI Blazor application running in Windows Desktop
 
-For running the MAUI Blazor application in a Windows Machine Desktop application select this option in the drwopdown list
+For running the MAUI Blazor application in a **Windows Machine Desktop application** select this option in the drwopdown list
 
 ![image](https://github.com/user-attachments/assets/82b937c0-7d7f-43b3-a056-5e325efe4a35)
 
@@ -304,11 +304,11 @@ Then press the running button
 
 ![image](https://github.com/user-attachments/assets/4966d746-b764-4feb-ad8d-7582a0962fac)
 
-Pay attention in this issue. When you select the Windows Machine is not required to Implement the application, only to Compile it
+Pay attention in this issue. When you select the **Windows Machine** is not required to **Implement** the application, only to **Compile** it
 
 However, when you run the application in a Mobile simulator or in your Mobile Device connected to your laptop it is mandatory also Implement the application after compiling it
 
-Go to the Menu option Compile->Configuration Manager
+Go to the Menu option **Compile->Configuration Manager**
 
 ![image](https://github.com/user-attachments/assets/43da4c12-7058-4c9e-a245-339841a7a565)
 
