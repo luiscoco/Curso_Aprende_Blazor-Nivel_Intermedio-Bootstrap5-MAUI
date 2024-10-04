@@ -294,21 +294,29 @@ We modify the **MainLayout.razor** component and include the following code:
 
 ## 6. Run the application and see the results
 
-### 6.1. MAUI Blazor application running in Samsung Galaxy A14 connected to my laptop
+### 6.1. MAUI Blazor application running in Windows Desktop
 
-![image](https://github.com/user-attachments/assets/b03d307c-c73c-4643-bcba-bbea345edc65)
+For running the MAUI Blazor application in a Windows Machine Desktop application select this option in the drwopdown list
 
-![image](https://github.com/user-attachments/assets/e45d4a38-3803-41a6-b480-909c60c8321d)
+![image](https://github.com/user-attachments/assets/82b937c0-7d7f-43b3-a056-5e325efe4a35)
 
-![image](https://github.com/user-attachments/assets/56a37ae2-3b6d-40de-b9aa-b4fe08fbc40a)
+Then press the running button 
 
-![image](https://github.com/user-attachments/assets/d057aa84-0ca6-4c87-8500-71e03c26b852)
+![image](https://github.com/user-attachments/assets/4966d746-b764-4feb-ad8d-7582a0962fac)
 
-![image](https://github.com/user-attachments/assets/0a502e41-5b42-431b-b09e-c3ecda9fc685)
+Pay attention in this issue. When you select the Windows Machine is not required to Implement the application, only to Compile it
 
-![image](https://github.com/user-attachments/assets/913be17a-b309-4408-954c-0a1e449c2475)
+However, when you run the application in a Mobile simulator or in your Mobile Device connected to your laptop it is mandatory also Implement the application after compiling it
 
-### 6.2. MAUI Blazor application running in Windows Desktop
+Go to the Menu option Compile->Configuration Manager
+
+![image](https://github.com/user-attachments/assets/43da4c12-7058-4c9e-a245-339841a7a565)
+
+See in the Window Machine mode the Implement checkbox is disable
+
+![image](https://github.com/user-attachments/assets/96c1d151-d0c0-482e-8699-2b389f9c2351)
+
+Now see your application is running as a Desktop app
 
 ![image](https://github.com/user-attachments/assets/40df222d-7b2a-49af-b738-3e61b3fa0562)
 
@@ -329,6 +337,22 @@ We modify the **MainLayout.razor** component and include the following code:
 ![image](https://github.com/user-attachments/assets/8808399d-6bea-4a94-b600-726f6a403c98)
 
 ![image](https://github.com/user-attachments/assets/9bd03f0d-07a0-47a1-9da2-5930ceaf1ede)
+
+### 6.2. MAUI Blazor application running in Samsung Galaxy A14 connected to my laptop
+
+![image](https://github.com/user-attachments/assets/b03d307c-c73c-4643-bcba-bbea345edc65)
+
+![image](https://github.com/user-attachments/assets/e45d4a38-3803-41a6-b480-909c60c8321d)
+
+![image](https://github.com/user-attachments/assets/56a37ae2-3b6d-40de-b9aa-b4fe08fbc40a)
+
+![image](https://github.com/user-attachments/assets/d057aa84-0ca6-4c87-8500-71e03c26b852)
+
+![image](https://github.com/user-attachments/assets/0a502e41-5b42-431b-b09e-c3ecda9fc685)
+
+![image](https://github.com/user-attachments/assets/913be17a-b309-4408-954c-0a1e449c2475)
+
+
 
 
 
