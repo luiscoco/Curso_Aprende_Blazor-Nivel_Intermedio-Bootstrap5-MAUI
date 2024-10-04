@@ -340,6 +340,30 @@ Now see your application is running as a Desktop app
 
 ### 6.2. MAUI Blazor application running in Samsung Galaxy A14 connected to my laptop
 
+Now for running your app in your Mobile Device you have to connect your device to your laptop with an USB-C wire
+
+Then check your Mobile device is properly connected running this command:
+
+```
+adb devices
+```
+
+![image](https://github.com/user-attachments/assets/ff9cec92-368a-416c-9f2a-5c6e87d4dab4)
+
+In your Visual Studio IDE in the running configurations select your Mobile device
+
+![image](https://github.com/user-attachments/assets/4070ab97-9789-4934-af0b-40aa95a78e30)
+
+**IMPORTANT NOTE:** before running the application you have to navigate to the **Compile->Configurations Manager...** menu option and select the **Implement** checkbox
+
+![image](https://github.com/user-attachments/assets/8f367a97-d9cd-4d5b-a782-804cd89030ce)
+
+![image](https://github.com/user-attachments/assets/03c44899-583a-4e78-81d0-b27d4968b3e2)
+
+Press the running button
+
+![image](https://github.com/user-attachments/assets/d777bc0b-d980-4e89-9b4a-e73ac47526e1)
+
 ![image](https://github.com/user-attachments/assets/b03d307c-c73c-4643-bcba-bbea345edc65)
 
 ![image](https://github.com/user-attachments/assets/e45d4a38-3803-41a6-b480-909c60c8321d)
