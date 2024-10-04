@@ -14,7 +14,7 @@ See information about the **Navbar** component in this URL:
 
 https://getbootstrap.com/docs/5.0/components/navbar/
 
-## 1. Modify the index.html file in wwwroot folder
+## 1. Modify the wwwroot/index.html file
 
 Include a new line for the **bootstrap 5** style reference in the **wwwroot/index.html** head HTML element:
 
