@@ -364,7 +364,7 @@ Press the running button
 
 ![image](https://github.com/user-attachments/assets/140a3cf9-e31e-45a9-b148-45f1f6c14d4e)
 
-See your MAUI Blazor application running in your Mobile device and also in your XAML
+See your MAUI Blazor application running in your Mobile device and also in your Previow XAML dynamic View
 
 ![image](https://github.com/user-attachments/assets/b03d307c-c73c-4643-bcba-bbea345edc65)
 
