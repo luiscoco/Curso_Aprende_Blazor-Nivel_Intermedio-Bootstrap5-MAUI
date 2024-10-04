@@ -16,7 +16,21 @@ https://getbootstrap.com/docs/5.0/components/navbar/
 
 ## 1. Run Visual Studio 2022 Community Edition and create a MAUI Blazor Application
 
-We install and run Visual Studio 2022
+We download Visual Studido 2022 Preview
+
+https://visualstudio.microsoft.com/vs/preview/
+
+![image](https://github.com/user-attachments/assets/08ba47c2-c95e-4f23-914e-05d174465deb)
+
+We install .NET 9 SDK 
+
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+
+![image](https://github.com/user-attachments/assets/1f73e7c8-1288-41f0-9e2d-60177818bd54)
+
+We run Microsoft Visual Studio Community 2022 (64 bits) - Preview Versión 17.12.0 Preview 2.1
+
+![image](https://github.com/user-attachments/assets/d7a4f524-fdb1-4f16-8c0f-52314ff8303d)
 
 We create a new project
 
