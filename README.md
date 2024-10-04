@@ -14,6 +14,37 @@ See information about the **Navbar** component in this URL:
 
 https://getbootstrap.com/docs/5.0/components/navbar/
 
+## 1. Run Visual Studio 2022 Community Edition and create a MAUI Blazor Application
+
+We install and run Visual Studio 2022
+
+We create a new project
+
+![image](https://github.com/user-attachments/assets/9334a2bb-9ed5-4c40-a312-26973910975f)
+
+We search for MAUI projects templates and select .NET MAUI Blazor App
+
+![image](https://github.com/user-attachments/assets/8287f785-96b9-417b-b457-bf34560320e8)
+
+We input the project name and the location in the hard disk
+
+![image](https://github.com/user-attachments/assets/69d8e997-483d-47e8-a33e-70020aa1b027)
+
+We select the .NET 9 framework and press the Create button
+
+![image](https://github.com/user-attachments/assets/0d42e1ac-d7da-40d7-9798-8b51a8b279f5)
+
+
+
+This is the original MAUI Blazor application folders and files structure
+
+
+
+In this example we will include only two new files: **accordion.js** and **Accordion.razor**
+
+![image](https://github.com/user-attachments/assets/777cb84e-2b9c-4d97-a8b6-c4a5ba0abcf7)
+
+
 ## 1. Modify the wwwroot/index.html file
 
 Include a new line for the **bootstrap 5** style reference in the **wwwroot/index.html** head HTML element:
