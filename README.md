@@ -362,7 +362,9 @@ In your Visual Studio IDE in the running configurations select your Mobile devic
 
 Press the running button
 
-![image](https://github.com/user-attachments/assets/d777bc0b-d980-4e89-9b4a-e73ac47526e1)
+![image](https://github.com/user-attachments/assets/140a3cf9-e31e-45a9-b148-45f1f6c14d4e)
+
+See your MAUI Blazor application running in your Mobile device and also in your XAML
 
 ![image](https://github.com/user-attachments/assets/b03d307c-c73c-4643-bcba-bbea345edc65)
 
